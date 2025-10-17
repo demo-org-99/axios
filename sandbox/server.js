@@ -7,7 +7,7 @@ let server;
 
 /**
  * Pipes a file to the HTTP response.
- *
+ * new pipes
  * @param {http.ServerResponse} res - The HTTP response object.
  * @param {string} file - The relative path to the file to be served.
  * @param {string} [type] - Optional MIME type for the response.
